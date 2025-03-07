@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dewaynelove.github.io/sitemap.xml
